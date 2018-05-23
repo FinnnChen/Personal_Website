@@ -212,9 +212,25 @@ ul {
     width: 50%;
 }
 
+.contact-content-wrapper {
+    width: 100%;
+}
 
-.contact-right img, .contact-right h2 {
-    padding: 0 0 18px 18px;
+.contact-left {
+    width: 30%;
+}
+
+.contact-left img {
+    width: 100%;
+    padding-right: 20px;
+}
+
+.contact-right {
+    width: 70%;
+}
+
+.contact-right h2 {
+    padding-bottom:  18px;
 }
 
 .footer {
